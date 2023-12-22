@@ -6,4 +6,4 @@ I used https://www.masswerk.at/6502/assembler.html to assemble the rom code and 
 
 When Building your own board its best to use sockets and preferably zif sockets for the 6502 and AT28C256.
 
-V1.0 Uses 1 SMD part that uses a 	SC70-6 package. V1.1 only has through hole components. 
+V1 uses 1 SMD part that uses a SC70-6 package. V1.1 only has through hole components. 
