@@ -7,3 +7,5 @@ I used https://www.masswerk.at/6502/assembler.html to assemble the rom code and 
 When Building your own board its best to use sockets.
 
 V1 uses 1 SMD part that uses a SC70-6 package. V1.1 only has through hole components. 
+
+EasyEDA files are now available for both boards. you should be able to modifiy the design if you want. All i ask if you decide to modify the board you include "Originally Developed By SuperCookie" somewhere on the silkscreen, my logo is not required however. 
