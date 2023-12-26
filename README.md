@@ -10,4 +10,4 @@ V1 uses mostly SMD parts (mostly 0603). V1.1 only has through hole components.
 
 EasyEDA files are now available for both boards. you should be able to modifiy the design if you want. All i ask if you decide to modify the board you include "Originally Developed By SuperCookie" somewhere on the silkscreen, my logo is not required however. 
 
-V1 and V1.1 both now support zif sockets for the 6502 and AT28C256, the imporved reset circuit design and better silkscreen instructions and pinouts.
+V1 and V1.1 both now support zif sockets for the 6502 and AT28C256, the imporved reset circuit design, ground M3 mounting points, and better silkscreen instructions and pinouts.
