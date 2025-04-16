@@ -1,0 +1,11 @@
+.org $0000
+JMP $8000
+.org $8000
+LDA #$00
+SEC
+ROR A
+STA $0010
+JMP $8000
+.org $fffc
+.word $8000
+.word $0000
