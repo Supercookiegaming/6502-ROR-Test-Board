@@ -8009,6 +8009,15 @@
 		(uuid "9bf409d9-d457-4b77-a8e4-2fca95734f92")
 	)
 	(bus_entry
+		(at 223.52 78.74)
+		(size -2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1eb117b-1652-43b6-955d-43c0792d8e22")
+	)
+	(bus_entry
 		(at 156.21 107.95)
 		(size 2.54 2.54)
 		(stroke
@@ -8910,6 +8919,16 @@
 		)
 		(uuid "5d6bc938-c7cb-42bd-a97c-7ffd22724680")
 	)
+	(bus
+		(pts
+			(xy 194.31 81.28) (xy 220.98 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ef9ab42-0625-4902-8950-5503472f6e79")
+	)
 	(wire
 		(pts
 			(xy 71.12 67.31) (xy 68.58 67.31)
@@ -9389,6 +9408,16 @@
 			(type default)
 		)
 		(uuid "9b127242-4115-41d6-a463-6b6cc4f54477")
+	)
+	(bus
+		(pts
+			(xy 194.31 107.95) (xy 194.31 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bf2e8f0-f54b-4a98-a331-3956a48e94c4")
 	)
 	(bus
 		(pts
@@ -15217,4 +15246,10 @@
 			)
 		)
 	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
