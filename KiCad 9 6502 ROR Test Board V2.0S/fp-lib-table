@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "EasyEDA 6502 ROR Test Board V2.0S")(type "KiCad")(uri "$(KIPRJMOD)/EasyEDA 6502 ROR Test Board V2.0S.pretty")(options "")(descr ""))
+)
