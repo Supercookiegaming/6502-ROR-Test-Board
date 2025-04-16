@@ -28,8 +28,20 @@
       "vias": true,
       "zones": true
     },
-    "visible_items": [],
-    "visible_layers": "ffff7ff_ffffffff",
+    "visible_items": [
+      "vias",
+      "footprint_text",
+      "ratsnest",
+      "footprints_front",
+      "footprints_back",
+      "footprint_values",
+      "footprint_references",
+      "tracks",
+      "pads",
+      "zones",
+      "shapes"
+    ],
+    "visible_layers": "00000000_00000000_0ffff7ff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -40,7 +52,7 @@
   },
   "meta": {
     "filename": "KiCad 9 6502 ROR Test Board V2.0S.kicad_prl",
-    "version": 3
+    "version": 5
   },
   "net_inspector_panel": {
     "col_hidden": [

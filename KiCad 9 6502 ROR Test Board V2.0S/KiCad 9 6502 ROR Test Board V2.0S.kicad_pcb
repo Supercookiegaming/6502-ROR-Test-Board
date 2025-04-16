@@ -12240,7 +12240,7 @@
 			)
 		)
 		(property "Value" "SN74HCT14DR"
-			(at -0.18605 0 -90)
+			(at -0.18605 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "07e54976-97ce-4e0e-9216-88a5c049d22e")
