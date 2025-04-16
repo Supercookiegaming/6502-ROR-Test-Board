@@ -1,8 +1,0 @@
-LDA #$00
-SEC
-ROR A
-STA $0010
-JMP $8000
-.org $7ffc
-.word $8000
-.word $0000
