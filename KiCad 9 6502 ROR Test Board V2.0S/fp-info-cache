@@ -1,4 +1,4 @@
-25280125413835020
+25287098539031506
 Athena KiCAd library
 mousebite
 
@@ -101562,3 +101562,31 @@ Varistor VF
 0
 2
 2
+athenaLibrary
+M_dot_2_M3_mounting_hole
+
+
+0
+1
+1
+athenaLibrary
+S14605
+
+
+0
+2
+2
+athenaLibrary
+m3mount2
+
+
+0
+1
+1
+athenaLibrary
+thinSOICtoBoard
+
+
+0
+24
+24
